@@ -1,9 +1,28 @@
-# Magisk Module Template
+# Rootless Pixel Launcher
+## Amir Zaidi (@azaidi at XDA)
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+### Features
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+- Icon packs
+- Swipe up/down for notifications
+- 6x6 grid for low DPI
+- Center popups for high DPI
+- No adaptive background for pre-Oreo apps
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+### Reverting
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+Disable this launcher and switch to different launcher before disabling the module. Not doing so could result in a “0.0dip has stopped working" bug. If you do encourage this bug, try installing the real Pixel Launcher from the app store.
+
+### Links
+
+APK Downloads: https://github.com/amirzaidi/launcher3/releases
+
+Sources: https://github.com/amirzaidi/Launcher3/tree/o-mr1?files=1
+
+Photos and videos : https://photos.app.goo.gl/qdcAcLOdiu8Kl1Bh1
+
+Telegram Group: https://t.me/launcherthree
+
+### Bug reports
+
+If something crashes I will need a logcat, a screen recording, a step by step walkthrough of how to reproduce the bug and a comparison with how it works on the real Pixel Launcher.

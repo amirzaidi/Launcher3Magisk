@@ -1,0 +1,7 @@
+id=mirai_launcher3_msfjarvis
+name=Amir Zaidi's Pixel Launcher port
+version=v1
+versionCode=1
+author=MSF Jarvis
+description=Rootless Pixel Launcher with additional features, ported by Amir Zaidi
+minMagisk=1500

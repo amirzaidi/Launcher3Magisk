@@ -11,7 +11,7 @@
 
 ### Reverting
 
-Disable this launcher and switch to different launcher before disabling the module. Not doing so could result in a “0.0dip has stopped working" bug. If you do encourage this bug, try installing the real Pixel Launcher from the app store.
+Disable this launcher and switch to different launcher before disabling the module. Not doing so could result in a â€œ0.0dip has stopped working" bug. If you do encounter this bug, try installing the real Pixel Launcher from the app store.
 
 ### Links
 
